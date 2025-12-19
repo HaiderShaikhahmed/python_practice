@@ -9,3 +9,5 @@ while guess!= jackpot:
     guess = int(input("enter the random no"))
 
 print("goodjob")
+
+# learning yt link("https://www.youtube.com/watch?v=y_I2YOP91Is")
